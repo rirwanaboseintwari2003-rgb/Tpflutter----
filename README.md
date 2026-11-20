@@ -1,16 +1,3 @@
-# tpalindecv
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="947" height="423" alt="Capture d&#39;écran 2026-11-20 100002" src="https://github.com/user-attachments/assets/0674cad2-e790-4bbd-b0ce-916e35c77a04" />
+<img width="959" height="427" alt="Capture d&#39;écran 2026-11-20 100127" src="https://github.com/user-attachments/assets/83a8dd21-c7bc-43d9-b504-cee8a2291525" />
+<img width="955" height="428" alt="Capture d&#39;écran 2026-11-20 100110" src="https://github.com/user-attachments/assets/f5d73921-2d61-4ce4-9c1a-25833e59dc07" />
