@@ -12,23 +12,23 @@ import 'services/api_service.dart';
 void main() => runApp(const MyApp());
 
 // ====== A PERSONNALISER ======
-const kNom = 'Amza Ongona Prospere';
+const kNom = 'Munguankowa Zihingula Lydie';
 const kTitre = 'Étudiant en informatique • Développeur mobile';
 const kPhoto = 'assets/images/moi.jpg';
 
 // ================= DESIGN TOKENS =================
 class C {
   static const bg = Color(0xFF080808);
-  static const blue = Color(0xFFFACC15);
-  static const violet = Color(0xFFEAB308);
-  static const cyan = Color(0xFFFDE047);
-  static const pink = Color(0xFFF59E0B);
+  static const blue = Color(0xFF3B82F6);
+  static const violet = Color(0xFF2563EB);
+  static const cyan = Color(0xFF60A5FA);
+  static const pink = Color(0xFF1D4ED8);
   static const text = Color(0xFFF5F5F5);
-  static const muted = Color(0xFFA3A3A3);
+  static const muted = Color(0xFF94A3B8);
 
   static const btn = LinearGradient(colors: [blue, violet]);
   static const textGrad = LinearGradient(
-    colors: [Color(0xFFFDE047), Color(0xFFFACC15), Color(0xFFEAB308)],
+    colors: [Color(0xFF60A5FA), Color(0xFF3B82F6), Color(0xFF2563EB)],
   );
 }
 
@@ -2179,8 +2179,8 @@ class ContactPage extends StatelessWidget {
     Ct(
       Icons.email_outlined,
       'E-mail',
-      'prosperongona5@gmail.com',
-      'mailto:prosperongona5@gmail.com',
+      'elianelydie@gmail.com',
+      'mailto:elianelydie@gmail.com',
       C.violet,
     ),
     Ct(
